@@ -2,8 +2,10 @@
 #define _EGOROV_MATHTASK_H__
 
 #include <string>
+
 using namespace std;
 
+int CalcRectangleArea(int NumberA, int NumberB);
 
 bool UserInput(string input) {
 
